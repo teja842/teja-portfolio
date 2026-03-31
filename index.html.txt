@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teja Alugoju | Cybersecurity Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #0f172a;
+            color: white;
+        }
+        header {
+            text-align: center;
+            padding: 40px;
+            background: #1e293b;
+        }
+        section {
+            padding: 30px;
+            max-width: 900px;
+            margin: auto;
+        }
+        h1, h2 {
+            color: #38bdf8;
+        }
+        .card {
+            background: #1e293b;
+            padding: 20px;
+            margin: 15px 0;
+            border-radius: 10px;
+        }
+        a {
+            color: #38bdf8;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Teja Alugoju</h1>
+    <p>Cybersecurity Graduate Student | Threat Analysis | Data Security</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <div class="card">
+        <p>I am a Master's student in Cybersecurity at NYIT Vancouver with experience in data analysis, threat detection, and security testing. I am passionate about identifying vulnerabilities and improving system security.</p>
+    </div>
+
+```
+<h2>Skills</h2>
+<div class="card">
+    <p>Python, SQL, Wireshark, Nmap, Burp Suite, Linux, PowerShell</p>
+    <p>Cybersecurity, Threat Analysis, Data Validation, ETL Testing</p>
+</div>
+
+<h2>Projects</h2>
+<div class="card">
+    <h3>Threat Hunting & Log Analysis</h3>
+    <p>Analyzed logs using Python to detect anomalies and suspicious patterns.</p>
+</div>
+
+<div class="card">
+    <h3>Web Application Vulnerability Testing</h3>
+    <p>Performed testing on web applications and identified security issues.</p>
+</div>
+
+<h2>Experience</h2>
+<div class="card">
+    <p><strong>Accenture – Data Engineering Associate</strong></p>
+    <p>Worked on QA testing, data validation, and improved data accuracy by 20%.</p>
+</div>
+
+<h2>Contact</h2>
+<div class="card">
+    <p>Email: tejaalugoju@gmail.com</p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/teja-alugoju">Profile</a></p>
+</div>
+```
+
+</section>
+
+</body>
+</html>
